@@ -1,5 +1,12 @@
 # mcp-analytics-stub
 
+## In plain English
+
+This is a small example of how an AI tool can call reliable functions and receive structured answers instead of guessing. MCP is the connection standard; the example data is entirely synthetic.
+
+**Status:** Public starter project for learning and demonstration.
+
+
 A minimal [Model Context Protocol](https://modelcontextprotocol.io) server in TypeScript. It exposes two tools over stdio and returns **synthetic data only**. It exists to show the shape of an MCP server that wraps an analytics API, without wrapping a real one.
 
 ## Tools
