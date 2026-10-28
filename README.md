@@ -1,5 +1,8 @@
 # mcp-analytics-stub
 
+> This repository is a small synthetic reference implementation. For a larger example using MCP tools to answer and evaluate analytics questions, see [Analytics Assistant](https://github.com/kmsmohamedansar/analytics-assistant).
+
+
 ## In plain English
 
 This is a small example of how an AI tool can call reliable functions and receive structured answers instead of guessing. MCP is the connection standard; the example data is entirely synthetic.
